@@ -27,3 +27,5 @@ UtilityPropertyCell: Represents utilities where rent depends on the dice roll.
 ChanceCell: Represents Chance and Community Chest cells with random outcomes.
 GotoJailCell: Sends players to jail.
 ParkCell: Temporarily prevents players from collecting rent.
+
+Designed By: Dr. Kevin Wang, Lecturer at HKBU Computer Science Department
