@@ -1,7 +1,7 @@
 # Monopoly Game
 
 
-This repository contains a simplified digital version of the classic Monopoly board game, developed in Java as part of a programming assignment for the course - Problem Solving using Object Oriented Programming in Java. The game allows players to roll dice, purchase properties, build houses, and charge rent to other players as they progress around the game board. The game concludes when one of the players runs out of money.
+This repository contains a simplified digital version of the classic Monopoly board game, developed in Java. The game allows players to roll dice, purchase properties, build houses, and charge rent to other players as they progress around the game board. The game concludes when one of the players runs out of money.
 
 **Game Overview**
 
@@ -33,4 +33,7 @@ ChanceCell: Represents Chance and Community Chest cells with random outcomes.
 GotoJailCell: Sends players to jail.
 ParkCell: Temporarily prevents players from collecting rent.
 
+**Acknowledgments**
+
+This project was developed as part of a programming assignment for the course - Problem Solving using Object Oriented Programming in Java.
 Designed By: Dr. Kevin Wang, Lecturer at HKBU Computer Science Department
